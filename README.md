@@ -15,3 +15,5 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
   * ADD COLUMN
   * CHANGE
   * DROP
+### 5 - Inserindo Dados nas tabelas:
+  * INSERT INTO
