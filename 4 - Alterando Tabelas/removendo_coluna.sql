@@ -1,0 +1,1 @@
+ALTER TABLE tb_cursos DROP carga_horario;
