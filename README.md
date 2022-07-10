@@ -17,3 +17,6 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
   * DROP
 ### 5 - Inserindo Dados nas tabelas:
   * INSERT INTO
+### 6 - Consultando dados:
+  * SELECT
+  * FROM
