@@ -22,3 +22,7 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
   * FROM
 ### 7 - criando tabela alunos:
   * Inserindo dados de teste obtidos pela url: https://generatedata.com
+
+### 8 - Filtrando Registros:
+  * Filtrando com operadores de comaparação : ' = ', ' < ', ' > ', ' <= ', ' => ' ;
+
