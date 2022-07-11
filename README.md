@@ -27,3 +27,5 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
   * Filtrando com operadores de comaparação : ' = ', ' < ', ' > ', ' <= ', ' => '
   * Filtrando registro com operados lógicos: 'OR', 'AND' 
 
+### 9 - Aprofundando em filtros:
+  * BETWEEN
