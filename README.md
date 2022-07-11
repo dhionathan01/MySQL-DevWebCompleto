@@ -20,3 +20,5 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
 ### 6 - Consultando dados:
   * SELECT
   * FROM
+### 7 - criando tabela alunos:
+    Inserindo dados de teste obtidos pela url: https://generatedata.com
