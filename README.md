@@ -29,3 +29,6 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
 
 ### 9 - Aprofundando em filtros:
   * BETWEEN
+  * IN
+  * NOT
+  * NOT IN
