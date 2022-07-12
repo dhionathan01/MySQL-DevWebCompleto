@@ -43,4 +43,6 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
   * MAX
   * MIN
   * AVG
+  * SUM
+  * COUNT
   

@@ -1,5 +1,5 @@
 /* 
-As funções de agregação são: MAX, MIN, AVG.
+As funções de agregação: MAX, MIN, AVG
 MAX -> Retorna o maior valor contido em uma coluna.
 MIN -> Retorna o menor valor contido em uma coluna.
 AVG -> Retorna a média de todos os registros com base em uma coluna.
