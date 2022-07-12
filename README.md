@@ -32,3 +32,5 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
   * IN
   * NOT
   * NOT IN
+  * LIKE
+    - caracteres curingas ' % ' e' _ ' 
