@@ -36,4 +36,7 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
     - caracteres curingas ' % ' e' _ ' 
 ### 10 - Ordenando resultados:
   * ORDER BY
+### 11 - Limitando retorno de registros e criar paginação:
+  * LIMIT
+  * OFFSET
   
