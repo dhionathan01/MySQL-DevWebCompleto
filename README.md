@@ -29,8 +29,11 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
 
 ### 9 - Aprofundando em filtros:
   * BETWEEN
-  * IN
+  
   * NOT
   * NOT IN
   * LIKE
     - caracteres curingas ' % ' e' _ ' 
+### 10 - Ordenando resultados:
+  * ORDER BY
+  
