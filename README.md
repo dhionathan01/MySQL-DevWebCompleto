@@ -39,4 +39,8 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
 ### 11 - Limitando retorno de registros e criar paginação:
   * LIMIT
   * OFFSET
+### 12 - Funções de agregação 
+  * MAX
+  * MIN
+  * AVG
   
