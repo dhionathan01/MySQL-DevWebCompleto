@@ -29,7 +29,6 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
 
 ### 9 - Aprofundando em filtros:
   * BETWEEN
-  
   * NOT
   * NOT IN
   * LIKE
@@ -47,4 +46,5 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
   * COUNT
 ### 13 - Agrupando registros:
   * GROUP BY
+  * AS
   
