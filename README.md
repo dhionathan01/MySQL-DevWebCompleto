@@ -45,4 +45,6 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
   * AVG
   * SUM
   * COUNT
+### 13 - Agrupando registros:
+  * GROUP BY
   
