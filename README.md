@@ -47,4 +47,8 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
 ### 13 - Agrupando registros:
   * GROUP BY
   * AS
-  
+### 14 - Filtrando Agrupamentos:
+  * GROUP BY
+  * HAVING
+  * IN
+  * <>
