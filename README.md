@@ -55,4 +55,5 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
 ### 15 Atualizando Registros :
   * UPDATE
   * SET
-  
+### 16 Deletando registros:
+  * DELETE FROM
