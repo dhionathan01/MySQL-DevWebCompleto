@@ -59,5 +59,5 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
   * DELETE FROM
 ### 17 Fazendo junção de tabelas:
   * JOIN
-    - LEFT JOIN
-    - 
+  * LEFT JOIN
+  * RIGHT JOIN
