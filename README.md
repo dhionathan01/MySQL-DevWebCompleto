@@ -57,3 +57,7 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
   * SET
 ### 16 Deletando registros:
   * DELETE FROM
+### 17 Fazendo junção de tabelas:
+  * JOIN
+    - LEFT JOIN
+    - 
