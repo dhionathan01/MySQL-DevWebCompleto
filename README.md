@@ -61,3 +61,4 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
   * JOIN
   * LEFT JOIN
   * RIGHT JOIN
+  * INNER JOIN
