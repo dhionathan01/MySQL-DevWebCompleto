@@ -62,3 +62,5 @@ Arquivos sql do módulo MySQL do curso desenvolvimento web completo:
   * LEFT JOIN
   * RIGHT JOIN
   * INNER JOIN
+### 18 Definindo Apelidos (Alias):
+  * AS
